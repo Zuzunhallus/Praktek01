@@ -12,5 +12,6 @@ package praktek01;
 public class AirmineralAksi {
     public static void main(String[] args) {
         
+        Airmineral Una = new Airmineral();
     }
 }
