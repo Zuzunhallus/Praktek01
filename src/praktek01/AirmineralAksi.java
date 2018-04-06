@@ -20,6 +20,8 @@ public class AirmineralAksi {
         Una.ukuranair="UkuranAir 600ml";
         Una.ukuranbotol="UkuranBotol Sedang";
         
+        Una.cetakInfo();
+        
         Airmineral Nurul = new Airmineral();
         
         Nurul.warna="Warna Putih";
@@ -28,6 +30,8 @@ public class AirmineralAksi {
         Nurul.ukuranair="UkuranAir 330ml";
         Nurul.ukuranbotol="UkuranBotol Kecil";
         
+        Nurul.cetakInfo();
+        
         Airmineral Zuzun = new Airmineral();
         
         Zuzun.warna="Warna Putih";
@@ -35,5 +39,7 @@ public class AirmineralAksi {
         Zuzun.tanggalexp="TanggalExp 28082018";
         Zuzun.ukuranair="UkuranAir 1500ml";
         Zuzun.ukuranbotol="UkuranBotol Besar";
+        
+        Zuzun.cetakInfo();
     }
 }
